@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "University Life: Expectations vs. Harsh Reality"
-date: 2026-03-29
+date: 2026-03-29 09:00:00 +0500
 categories: [University, Life Experience]
 ---
 
