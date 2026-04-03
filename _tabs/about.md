@@ -11,7 +11,7 @@ Welcome to my digital space! I am a passionate **Computer Engineering** student,
 
 ---
 
-### 🎓 Academic Journey
+###  Academic Journey
 Currently, I am deep-diving into the core foundations of software and data. My current academic focus includes:
 
 * **C# Programming:** Building logical and robust applications.
