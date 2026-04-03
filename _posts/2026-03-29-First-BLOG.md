@@ -33,6 +33,8 @@ My first Programming Fundamentals lab was a moment of true vulnerability, but it
 * *Building Proficiency:* Through persistence and many hours of practice, I moved from being a novice to becoming an expert in operating systems. What once felt like a barrier is now a tool I use with total confidence.
 * *Mastering the Logic (Python and Beyond):* Beyond just basic operations, I have now developed a strong command of writing Python code. This progression proves that while learning is tough, the reward of gaining a new skill is the most positive outcome of all.
 
+![Desktop View](https://raw.githubusercontent.com/AdilHassan85/First-BLOG/main/_posts/hassan.jpg)
+
 ---
 
 *Conclusion:*
