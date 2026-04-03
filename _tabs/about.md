@@ -26,7 +26,7 @@ While I enjoy the technical breadth of my degree, my heart lies in:
 ###  Beyond the Code (Hobbies):
 When I'm not in front of a screen or in a lab, you'll find me pursuing my adrenaline-fueled passions:
 * **Drifting:** I love the thrill and precision of controlled slides.
-* **Horse Riding:** A classic hobby that keeps me connected to nature and discipline.
+
 
 ---
 
